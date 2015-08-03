@@ -1,4 +1,4 @@
-"quotesitem": 	[
+{"quotesitem": 	[
 		{
 		"name": "Bill Gates",
 		  "title": " Jika anda tidak dapat membuatnya dengan baik, paling tidak buatlah agar terlihat baik ",
@@ -7,5 +7,15 @@
 			"width": 300,
           		"height": 163
           		}
+		},
+		{
+		"name": "Bill Gates",
+		  "title": " paling tidak buatlah agar terlihat baik ",
+			"thumbnail": {
+			"url" : "http://oi44.tinypic.com/20itp2e.jpg",
+			"width": 300,
+          		"height": 163
+          		}
 		}
 	]
+}
