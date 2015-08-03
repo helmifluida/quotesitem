@@ -2,27 +2,27 @@
 "quotesitem": 
 	[
 		{
-		  "quotes": " 'Jika anda tidak dapat membuatnya dengan baik, paling tidak buatlah agar terlihat baik' ",
+		  	"title": " 'Jika anda tidak dapat membuatnya dengan baik, paling tidak buatlah agar terlihat baik' ",
 			"thumbnail": "http://oi44.tinypic.com/20itp2e.jpg",
 			"name": "Bill Gates"
 		},
 		{
-			"quotes": " 'Seperti yang kita lihat pada masa yang akan datang, pemimpin akan menjadi orang – orang yang memberdayakan orang lain' ",
+			"title": " 'Seperti yang kita lihat pada masa yang akan datang, pemimpin akan menjadi orang – orang yang memberdayakan orang lain' ",
 			"thumbnail": "http://oi44.tinypic.com/20itp2e.jpg",
 			"name": "Bill Gates"
 		},
 		{
-			"quotes": " 'Innovation distinguishes between a leader and a follower' ",
+			"title": " 'Innovation distinguishes between a leader and a follower' ",
 			"thumbnail": "http://oi41.tinypic.com/29o4yrm.jpg",
 			"name": "Steve Jobs"
 		},
 		{
-			"quotes": " 'Mari Gabung di Fluida Developer' ",
+			"title": " 'Mari Gabung di Fluida Developer' ",
 			"thumbnail": "https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/s320x320/e15/11313500_849747225094311_492321021_n.jpg",
 			"name": "Helmi Ismail"
 		},
 	        {
-			"author": "Helmi Ismail",
+			"title": "Helmi Ismail",
 			"url": "http://wallpapersdota2.com/wp-content/uploads/2014/11/wallpapersdota2.com-377.jpg",
 			"name": "Venomancer"
 		},
