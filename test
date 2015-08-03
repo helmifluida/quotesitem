@@ -1,0 +1,23 @@
+{
+    "kontak": [
+        {
+                "id": "c200",
+                "nama": "Ana Saputra",
+                "email": "ana@gmail.com",
+                "alamat": "Denpasar",
+                "jk" : "Laki - Laki",
+                "thumbnail" : "http:\/\/javatechig.com\/wp-content\/uploads\/2015\/07\/Android-Development-Tutorials-300x188.jpg",
+                "hp" : "0857 7777 xxxx"
+        },
+ 
+        {
+                "id": "c201",
+                "nama": "Agung Saputra",
+                "email": "agung@gmail.com",
+                "alamat": "Denpasar",
+                "thumbnail" : "http:\/\/javatechig.com\/wp-content\/uploads\/2015\/07\/Android-Development-Tutorials-300x188.jpg",
+                "jk" : "Laki - Laki",
+                "hp" : "0857 7777 xxxx"
+        }
+    ]
+}
