@@ -1,9 +1,9 @@
 {
-    "kontak": [
+    "list": [
         {
                 "id": "c200",
-                "nama": "Ana Saputra",
-                "email": "ana@gmail.com",
+                "quotes": "Kesuksesan adalah guru yang buruk. Ia menggoda orang cerdas untuk berpikir bahwa mereka tidak dapat ditaklukkan",
+                "author": "Bill Gates",
                 "alamat": "Denpasar",
                 "jk" : "Laki - Laki",
                 "thumbnail" : "http://oi44.tinypic.com/20itp2e.jpg",
@@ -12,11 +12,20 @@
  
         {
                 "id": "c201",
-                "nama": "Agung Saputra",
-                "email": "agung@gmail.com",
+                "quotes": "Saya percaya jika anda menunjukkan kepada orang – orang masalah dan  menunjukkan mereka jalan keluar, mereka akan segera mengambil tindakan",
+                "author": "Bill Gates",
                 "alamat": "Denpasar",
-                "thumbnail" : "http:\/\/javatechig.com\/wp-content\/uploads\/2015\/07\/Android-Development-Tutorials-300x188.jpg",
+                "thumbnail" : "http://oi44.tinypic.com/20itp2e.jpg",
                 "jk" : "Laki - Laki",
+                "hp" : "0857 7777 xxxx"
+        },
+        {
+                "id": "c200",
+                "quotes": "Akhirnya Saya berhasil Parsing JSON :D",
+                "author": "Helmi Ismail",
+                "alamat": "Denpasar",
+                "jk" : "Laki - Laki",
+                "thumbnail" : "https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/s320x320/e15/11313500_849747225094311_492321021_n.jpg",
                 "hp" : "0857 7777 xxxx"
         }
     ]
