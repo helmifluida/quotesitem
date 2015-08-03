@@ -1,32 +1,11 @@
 "quotesitem": 	[
 		{
-		  	"title": " 'Jika anda tidak dapat membuatnya dengan baik, paling tidak buatlah agar terlihat baik' ",
-			"thumbnail": "http://oi44.tinypic.com/20itp2e.jpg",
-			"name": "Bill Gates"
-		},
-		{
-			"title": " 'Seperti yang kita lihat pada masa yang akan datang, pemimpin akan menjadi orang – orang yang memberdayakan orang lain' ",
-			"thumbnail": "http://oi44.tinypic.com/20itp2e.jpg",
-			"name": "Bill Gates"
-		},
-		{
-			"title": " 'Innovation distinguishes between a leader and a follower' ",
-			"thumbnail": "http://oi41.tinypic.com/29o4yrm.jpg",
-			"name": "Steve Jobs"
-		},
-		{
-			"title": " 'Mari Gabung di Fluida Developer' ",
-			"thumbnail": "https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/s320x320/e15/11313500_849747225094311_492321021_n.jpg",
-			"name": "Helmi Ismail"
-		},
-	        {
-			"title": "Helmi Ismail",
-			"url": "http://wallpapersdota2.com/wp-content/uploads/2014/11/wallpapersdota2.com-377.jpg",
-			"name": "Venomancer"
-		},
-		{
-			"author": "Hef",
-			"url": "http://i.imgur.com/UygO14l.jpg",
-			"name": "Knid"
+		"name": "Bill Gates",
+		  "title": " Jika anda tidak dapat membuatnya dengan baik, paling tidak buatlah agar terlihat baik ",
+			"thumbnail": {
+			"url" : "http://oi44.tinypic.com/20itp2e.jpg",
+			"width": 300,
+          		"height": 163
+          		}
 		}
 	]
